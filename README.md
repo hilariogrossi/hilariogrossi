@@ -1,8 +1,8 @@
-### Olá! Sou Hilário Grossi de Oliveira estudante de programação e tecnologia!👋
+## Olá! Sou Hilário Grossi de Oliveira estudante de programação e tecnologia!👋
 ### Atualmente estudando nas escolas UNI421 - https://www.uni421.com.br/ , na DIO - https://web.dio.me/home e ná STAART - https://app.staart.com
 
 
-- 🌱 Atualmente estou aprendendo Python, HTML5, CCS3 e JS.
+- 🌱 Atualmente estou aprendendo Python, HTML5, CSS3 e Java Script.
 - 👯 Estou procurando colaborar, pela primeira vez, em construção de programas ligados às linguagens que estou aprendendo.
 - 🤔 I’m looking for help with my programs.
 - 📫 How to reach me (Como me encontrar): https://www.linkedin.com/in/hilário-grossi-de-oliveira-99762629/ , https://www.instagram.com/hilariogrossideoliveira/
