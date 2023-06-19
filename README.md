@@ -1,12 +1,12 @@
 ## Olá! Sou Hilário Grossi de Oliveira estudante de programação e tecnologia!👋
-### Atualmente estudando nas escolas UNI421 - https://www.uni421.com.br/ e na STAART - https://app.staart.com
+### Atualmente estudando nas escolas UNI421 - https://www.uni421.com.br/ , na DIO - Digital Innovation One - https://www.dio.me , na STAART - https://app.staart.com e agora na CODEFICO https://codefico.com.br
 
 
 - 🌱 Atualmente estou aprendendo Python, HTML5, CSS3 e Java Script.
 - 👯 Estou procurando colaborar, pela primeira vez, em construção de programas ligados às linguagens que estou aprendendo.
 - 🤔 I’m looking for help with my programs.
-- 📫 How to reach me (Como me encontrar): https://www.linkedin.com/in/hilário-grossi-de-oliveira-99762629/ , https://www.instagram.com/hilariogrossideoliveira/
-- 😄 Pronouns: ele, dele...
+- 📫 How to reach me (Como me encontrar): https://www.linkedin.com/in/hilariogrossi , https://www.instagram.com/hilariogrossideoliveira/
+- 😄 Pronouns: He, him, ele, dele...
 
 
 <div align="center">
